@@ -5,6 +5,6 @@
 $this->title = 'My Yii Application';
 ?>
 
-
+<h1>app</h1>
 
 </div>
